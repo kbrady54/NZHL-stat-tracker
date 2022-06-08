@@ -1,1 +1,4 @@
 test
+
+
+curl "https://proclubs.ea.com/api/nhl/clubs/matches?clubIds=104917&platform=xbox-series-xs&matchType=club_private" -A "Gecko/20100101"
